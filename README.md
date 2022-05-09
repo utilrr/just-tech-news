@@ -11,6 +11,7 @@
 
 ## Technologies Used
 
+JavaScript, Sequelize, Node.js, MySQL, Heroku, JawsDB, Express, .dotenv, bcrypt, Insomnia
 ## Challenges Faced
 
 ## Deployed Website link
