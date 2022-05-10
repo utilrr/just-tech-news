@@ -2,11 +2,7 @@
   "name": "just-tech-news",
   "version": "1.0.0",
   "description": "# Title",
-<<<<<<< HEAD
   "main": "server.js",
-=======
-  "main": "index.js",
->>>>>>> feature/user-model
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -21,9 +17,6 @@
   "bugs": {
     "url": "https://github.com/utilrr/just-tech-news/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/utilrr/just-tech-news#readme"
-=======
   "homepage": "https://github.com/utilrr/just-tech-news#readme",
   "dependencies": {
     "dotenv": "^16.0.0",
@@ -31,5 +24,4 @@
     "mysql2": "^2.3.3",
     "sequelize": "^6.19.0"
   }
->>>>>>> feature/user-model
 }
